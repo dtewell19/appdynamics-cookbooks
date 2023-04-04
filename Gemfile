@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'rake'
-gem 'berkshelf'
+gem 'rake', '>= 12.3.3'
+gem 'berkshelf', '>= 4.2.3'
 gem 'chefspec'
-gem 'rubocop', '0.33.0'
+gem 'rubocop', '0.49.0'
 gem 'rspec'
 gem 'foodcritic'
 
