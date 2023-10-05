@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rake'
-gem 'berkshelf'
+gem 'berkshelf', '>= 7.0.0'
 gem 'chefspec'
 gem 'rubocop', '0.33.0'
 gem 'rspec'
